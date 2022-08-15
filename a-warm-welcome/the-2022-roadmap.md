@@ -17,7 +17,7 @@ With the end of 2021, the year 2022 has made us in a perfect position even to ac
 * [x] NFC Tangible Goods Data Track & Trace
 * [ ] NFT Platform Rollout
 * [ ] Edge-AI Camera available on MatchX
-* [ ] Polkadot Mining Incorporation Mechanism Rollout
+* [x] Polkadot Mining Incorporation Mechanism Rollout
 * [ ] Device Provisioning 2.0
 * [ ] NFT Sale
 * [x] Supernode Expansion
