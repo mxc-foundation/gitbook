@@ -1,6 +1,6 @@
 # Socials
 
-![](<.gitbook/assets/MXC\_Logo\_Navy (2).png>)\
+![](broken-reference)\
 Website: [https://www.mxc.org/](https://www.mxc.org/)\
 Telegram Official Chat: [https://t.me/mxcfoundation](https://t.me/mxcfoundation)\
 Telegram Announcement Channel: [https://t.me/mxcofficialannouncements](https://t.me/mxcofficialannouncements)\
