@@ -8,12 +8,12 @@ With the end of 2021, the year 2022 has made us in a perfect position even to ac
 
 * [x] The New MXC Foundation Website
 * [x] DKPIII Analysis & Bug Fixes
-* [ ] Meta-XP DataDash Launch
+* [x] Meta-XP DataDash Launch
 * [x] DD Update Darkmode Improvement
 * [x] Expanding to New Exchanges
-* [ ] MXCMapper Upgrade
+* [x] MXCMapper Upgrade
 * [x] BTC Mining Permanent Rollout
-* [ ] F-NFTs Initial Design Rollout
+* [x] F-NFTs Initial Design Rollout
 * [x] NFC Tangible Goods Data Track & Trace
 * [ ] NFT Platform Rollout
 * [ ] Edge-AI Camera available on MatchX
@@ -21,7 +21,7 @@ With the end of 2021, the year 2022 has made us in a perfect position even to ac
 * [ ] Device Provisioning 2.0
 * [ ] NFT Sale
 * [x] Supernode Expansion
-* [ ] MXC Metaverse 1.0 Dataverse
+* [x] MXC Metaverse 1.0 Dataverse
 * [x] MXC First DAO Vote Proposal
 * [ ] MXC First DAO Council Setup
 * [ ] MXC First DAO Senate Initiation
