@@ -7,7 +7,7 @@ Staking MXC can be done via the Home Screen on the DataDash App or via the Walle
 When you click on Stake you can add a "new stake". You are then asked for the duration of Stake you want to go for.&#x20;
 
 \
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">\
 
 
 You will receive the staking rewards every 30 days after the start of the stake, and you can calculate the rewards you'd get simply clicking on the duration and see the monthly rate. For example, the 24 Month Stake will give you 0.7% of the staked amount per month, for an APY of 8.4%.\

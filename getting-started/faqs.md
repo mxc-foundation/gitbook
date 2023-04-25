@@ -23,7 +23,7 @@ With regard to the M2 Pro miner and the material and product itself, we expect o
 The 4th antenna is a 4G/LTE antenna and it is only reccomended for people that do not use access to normal internet connectivity via router. This allows users to install miners even in remote locations. \
 \
 **Can I see my miners on a map?** \
-****We created MXCMapper for this! It gives you a clear overview of where the M2 Pros are located as well as other Gateways. You can find the map [here](https://mxcmapper.com/). \
+We created MXCMapper for this! It gives you a clear overview of where the M2 Pros are located as well as other Gateways. You can find the map [here](https://mxcmapper.com/). \
 \
 **When will the next Discord AMA be?** \
 We will make sure we give the community at least a week's advance notice before we host an AMA (on any platform). In addition to giving the community time to prepare, this will also allow everyone to submit questions ahead of time if necessary. Be sure to pay attention to the \
@@ -36,7 +36,7 @@ If you have a technical issue and you wish to speak with the Support Team, pleas
 To update a past ticket, use the `/ticket update` command. The bot will then DM you and ask you to select the ticket you wish to update. \
 \
 **What is the grace period?** \
-****Your grace period begins the day and time the miner is first registered. It lasts for 90 days. During this period of time miner health will be updated accordingly to the PoP elements percentages of your miner, but it will have no effect on your earnings, which will stay as if your miner health is 100%. When the grace period ends, your miner health will be applied. So you’ll want to be sure that your miner is nice and healthy before that grace period ends.\
+Your grace period begins the day and time the miner is first registered. It lasts for 90 days. During this period of time miner health will be updated accordingly to the PoP elements percentages of your miner, but it will have no effect on your earnings, which will stay as if your miner health is 100%. When the grace period ends, your miner health will be applied. So you’ll want to be sure that your miner is nice and healthy before that grace period ends.\
 \
 **How does the M2 Pro work in the DataDash App?**\
 The M2 Pro works seamlessly with the DataDash App. The DataDash App allows users to monitor their profits, adjust their mining and staking needs, and withdraw their mined/staked tokens. DataDash is a sleek and super simple app that allows users to not only mine MXC with the M2 Pro, but also allows users to mine multiple tokens.\

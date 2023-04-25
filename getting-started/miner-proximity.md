@@ -1,6 +1,6 @@
 # Miner Proximity
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 The new miner protocol proximity update has been decided after taking the intensive feedback from the community, supporters, and investors to empower the miner community to grow extensively and support the miners who have multiple units within the exact location. This new proximity update feature will spread the M2 Pro miners worldwide in a decentralized manner.&#x20;
 

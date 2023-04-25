@@ -8,7 +8,7 @@ When a miner unbonds their MXC, they must wait for a specified period before the
 
 A miner may unbond MXC from NEO tier before the bond duration has expired, However, there are also penalties associated with unbonding before the end of the bond period. The formula for calculating the penalty fee is:
 
-* Fee = s \* x  \* (1 - (u \* d))
+![](<../../../.gitbook/assets/image (14).png>)
 
 Where:
 

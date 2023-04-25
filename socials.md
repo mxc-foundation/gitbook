@@ -9,8 +9,8 @@ Discord: [https://mxc.news/mxcdiscord](https://mxc.news/mxcdiscord)\
 CoinMarketCap: [https://coinmarketcap.com/currencies/mxc/](https://coinmarketcap.com/currencies/mxc/)\
 CoinGecko: [https://www.coingecko.com/en/coins/mxc](https://www.coingecko.com/en/coins/mxc)
 
-****\
-****![](<.gitbook/assets/MatchX\_Logo-Dark-Blue\_X\_1 (1).png>)\
+\
+![](<.gitbook/assets/MatchX\_Logo-Dark-Blue\_X\_1 (1).png>)\
 \
 Website: [https://matchx.io/](https://matchx.io/)\
 Twitter: [https://twitter.com/matchx\_iot](https://twitter.com/matchx\_iot)\

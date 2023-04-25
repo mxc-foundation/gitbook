@@ -4,7 +4,7 @@ Mining power, also known as MP, is a parameter assigned to each miner that refle
 
 The formula for calculating mining power takes into account the miner's age on the network, the current block number, the block number when the miner joined the network, the block time, staking boost, staking factor, and health. It is as follows:
 
-MPi(BN)= (Health(1+ SB)) / (SQRT(1+(0.012\*((BN-BS)BT-150))2+ 0.28\*(0.012\*1.1((BN-BS)BT-150))^3)&#x20;
+![](../../../.gitbook/assets/image.png)
 
 Where:
 
@@ -21,21 +21,21 @@ Where:
 
 The mining difficulty is the measure of how difficult it is to find a new block in the blockchain network, ensuring the sustainability of the mining protocol for both present and future miners.&#x20;
 
-MD(BN)= pool / (AM Σ i=1 MPi (BN))
+![](<../../../.gitbook/assets/image (10).png>)
 
 * AM = Total Active Miners
 
-The formula includes two variables: "Pool" which represents the mining pool according to the tier that the miner belongs to, and "AM Σ i=1 MPi (BN)" which is the sum of the total number of miners in the given pool including their individual mining power at a given block number (BN).
+The formula includes two variables: "Pool" which represents the mining pool according to the tier that the miner belongs to, and ![](<../../../.gitbook/assets/image (11).png>) which is the sum of the total number of miners in the given pool including their individual mining power at a given block number (BN).
 
 In other words, the formula "MD(BN)" calculates the mining difficulty for a given block number by taking into account the total mining power of all the miners in the pool, including the mining power of the individual miner.&#x20;
 
-ExpectedMXCi(BN) = MPi(BN) \* MD(BN)
+![](<../../../.gitbook/assets/image (12).png>)
 
 The above formula shows the ExpectedMXC mined according to the individual miner, and their respective Mining Difficulty by multiplying the Mining Power, and Mining Difficulty. MPi(BN) represents the mining power of the miner at block number BN, as calculated using the MD(BN) which represents the mining difficulty of the miner at block number BN.
 
 The formula SB(MXC) stands for Staking Boost, MXC is the amount of MXC staked, where SF is the Staking Factor which is equal to 0.00004, SC the Staking Cap which is equal to 1.
 
-SB(MXC)= MIN(SC, MXC \* SF)
+![](<../../../.gitbook/assets/image (4).png>)
 
 This formula is used to calculate the Staking Boost that a miner receives based on their staked MXC amount. The Staking Boost is a factor that increases the miner’s Mining Power, allowing them to increase their competitiveness within their respective tier.
 
@@ -45,19 +45,13 @@ As the formula suggests, the maximum staking amount is 25,000 MXC, which would g
 
 For example, let’s say a miner has 10,000 MXC staked. Inserting this value into the formula, we get the following outcomes:
 
-SB(MXC)= MIN(1, 10,000 \* 0,00004)
-
-SB(MXC)= MIN(1, 0.4)
-
-SB(MXC)= 0.4
+![](<../../../.gitbook/assets/image (3).png>)
 
 The miner that has 10,000 MXC staked would receive a Staking Boost of 0.4, which would increase their Mining Power and allow them to perform more competitively within the tier.
 
 In an example scenario in which there are 3 miners in Silver Tier, m1 with MP1 = 1, m2 with MP2 = 0.8 and m3 with MP3 = 0.2 and the tier has 10,000 MXC allocated to it. Then the miners may receive on average:
 
-* m1MXC = 10000 \* MP1MP1 + MP2 + MP3= 10000 \* 11+0.8+0.2=5,000 MXC&#x20;
-* m2MXC = 10000 \* MP2MP1 + MP2 + MP3= 10000 \* 0.81+0.8+0.2=4,000 MXC
-* m3MXC = 10000 \* MP3MP1 + MP2 + MP3= 10000 \* 0.21+0.8+0.2=1,000 MXC
+![](<../../../.gitbook/assets/image (5).png>)
 
 In summary, the Mining Power (MP) of a miner in the MXC network plays a crucial role in determining their performance. A miner with a higher MP has a better chance of competing more effectively, while the MP is affected by various factors such as staking and health. The MXC tokens are allocated to each tier following the coefficient, and the allocation is distributed among the miners in proportion to their MP. Overall, MP is an essential metric that determines a miner's competitiveness and potential in the MXC network.
 

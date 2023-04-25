@@ -6,25 +6,18 @@ However, the mining outcome for each tier can be estimated, since the NEO mining
 
 These values determine the proportions of the different pools, but the actual MXC amount distributed depends on the Total Pool (TP) and the number of miners in each tier, which both may be dynamic.
 
-* X= Bronze / (Bronze + Silver + Gold) = 0.16
-* Y=Silver / (Bronze + Silver + Gold) = 0.3
-* Z=Gold / (Bronze + Silver + Gold) = 0.54
+![](<../../../.gitbook/assets/image (9).png>)
 
 Taking these coefficients into consideration, miners can use the following formula to calculate how many MXC tokens from the TP are allocated to each tier pool.
 
 * mTier = Number of Miners (m) in Tier (tier)
 * TP = Total Pool
-* C = TP / ((mBronze \* X) + (mSilver \* Y) + (mGold \* Z))
-* BPool = mBronze \* C \* X
-* SPool = mSilver \* C \* Y
-* GPool = mGold \* C \* Z
+
+![](<../../../.gitbook/assets/image (13).png>)
 
 Let’s assume that the Total Pool is currently at 10,000,000 MXC (TP= 10000000), mGold = 500,  mSilver = 1500, mBronze = 500, X = 0.16, Y = 0.3, and Z = 0.54
 
-* C =10000000 / ((500 \* 0.16) + (1500 \* 0.3) + (500 \* 0.54)) = 10000000 / 800 = 12500
-* BPool = 500 \* 12500 \* 0.16 = 1,000,000
-* SPool = 1500 \* 12500 \* 0.3 = 5,625,000
-* GPool =500 \* 12500 \* 0.54 = 3,375,000
+![](<../../../.gitbook/assets/image (2).png>)
 
 The following distribution takes place for each miner in their respective tiers, in the following average, assuming that all miners are in exact identical state.
 

@@ -21,7 +21,7 @@ The steps on how to buy $MXC from the exchanges are pretty straightforward. Firs
 If you don't want to create an account on an exchange you can simply use Uniswap. However, Uniswap required an already existing crypto wallet, so you need to deposit to your crypto wallet first before swapping with MXC.\
 ![](<../.gitbook/assets/image (7).png>)\
 \
-<img src="../.gitbook/assets/image (5).png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="original">\
 \
 After swapping you can see your MXC Balance on the wallet that you've connected to Uniswap. Now you are ready to deposit your crypto to the DataDash App.\
 \

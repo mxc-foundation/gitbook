@@ -8,12 +8,12 @@ Below you can see the full breakdown of the fees collected that are accumulating
 
 * WA = Withdrawal Amount
 * WFmxc = MXC Withdrawal Fee
-* WFmxc = (WA \* 0.0283) + GasETH&#x20;
+
+![](<../../../.gitbook/assets/image (8).png>)
 
 _User wants to withdraw 1,000 MXC tokens the following fees are deposited to the Community Treasury Pool._
 
-* WFmxc = (1,000 \* 0.0283)+GasETH
-* WFmxc = 28.3+GasETH
+![](<../../../.gitbook/assets/image (1).png>)
 
 **Withdrawal fees for DOGE Mining**: When a miner withdraws their DOGE tokens from their mining account, a withdrawal fee of gas translated into MXC + 200 MXC is charged. The 200 MXC goes toward the community treasury.
 

@@ -14,7 +14,7 @@ Our focus for Miner Health is to make the preparatory step for the global data n
 * Online
 * Allowing your mined MXC to accumulate as **Fuel**
 
-You will be optimizing your M2 Pro's **** health and thus your miner's performance. In the future, other Miner Health criteria will be introduced which will impact Health and miner performances if those are not optimized, these can include:
+You will be optimizing your M2 Pro's health and thus your miner's performance. In the future, other Miner Health criteria will be introduced which will impact Health and miner performances if those are not optimized, these can include:
 
 * Elevation
 * GPS Signal Strength
