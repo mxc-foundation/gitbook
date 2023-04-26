@@ -17,8 +17,6 @@ _User wants to withdraw 1,000 MXC tokens the following fees are deposited to the
 
 **Withdrawal fees for DOGE Mining**: When a miner withdraws their DOGE tokens from their mining account, a withdrawal fee of gas translated into MXC + 200 MXC is charged. The 200 MXC goes toward the community treasury.
 
-**Downtime Fee**: When a miner is down for 1440 blocks, a fee of 100 MXC is charged per every 1440 blocks. The entirety of the downtime fee is collected in the community treasury.&#x20;
-
 **Unbonding Fee**: When a miner unbonds their staked MXC before the bond period is complete, a penalty fee is charged as described above. The unbonding fee is contributed toward the community treasury.&#x20;
 
 **Migration Fees**: When a user migrates all MXC from M2 Pro to NEO, it can cause significant disruption in ensuring fairness and the whale-proof nature of the NEO protocol. For this reason, removing MXC from the M2 Pro fuel tank results in a withdrawal fee of 2000 MXC. 1000 MXC goes towards the community treasury, and the other 1000 MXC goes towards the foundation treasury.
