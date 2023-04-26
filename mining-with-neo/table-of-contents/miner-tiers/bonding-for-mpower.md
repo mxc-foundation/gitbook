@@ -25,7 +25,7 @@ The mining difficulty is the measure of how difficult it is to find a new block 
 
 * AM = Total Active Miners
 
-The formula includes two variables: "Pool" which represents the mining pool according to the tier that the miner belongs to, and ![](<../../../.gitbook/assets/image (11).png>) which is the sum of the total number of miners in the given pool including their individual mining power at a given block number (BN).
+The formula includes two variables: "Pool" which represents the mining pool according to the tier that the miner belongs to, and ![](<../../../.gitbook/assets/image (11) (1).png>) which is the sum of the total number of miners in the given pool including their individual mining power at a given block number (BN).
 
 In other words, the formula "MD(BN)" calculates the mining difficulty for a given block number by taking into account the total mining power of all the miners in the pool, including the mining power of the individual miner.&#x20;
 
