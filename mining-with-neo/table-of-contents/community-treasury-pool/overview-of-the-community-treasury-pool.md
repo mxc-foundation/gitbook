@@ -21,6 +21,6 @@ _User wants to withdraw 1,000 MXC tokens the following fees are deposited to the
 
 **Migration Fees**: When a user migrates all MXC from M2 Pro to NEO, it can cause significant disruption in ensuring fairness and the whale-proof nature of the NEO protocol. For this reason, removing MXC from the M2 Pro fuel tank results in a withdrawal fee of 2000 MXC. 1000 MXC goes towards the community treasury, and the other 1000 MXC goes towards the foundation treasury.
 
-**De-Insertion Fee**: When a user wishes to delete their miner, a fee of. 5,000 MXC is charged for the deletion of the M2 Pro, and a fee of 2000 MXC is charged for the NEO. 80% of the fees go directly toward the community treasury, and 20% goes towards the foundation treasury. The fee is charged per unit.
+**De-Insertion Fee**: When a user wishes to delete their miner, a fee of 5,000 MXC is charged for the deletion of the M2 Pro, and a fee of 2000 MXC is charged for the NEO. 80% of the fees go directly toward the community treasury, and 20% goes towards the foundation treasury. The fee is charged per unit.
 
 **mPower Unbonding Fee**: When a user unbonds their staked MXC from mPower, a small fee of 20 MXC is charged to contribute to the Community Treasury.
