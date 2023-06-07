@@ -4,7 +4,7 @@ Unbonding is an important concept in blockchain networks like the MXC network be
 \
 Unbonding refers to the process of miners withdrawing their bonded MXC from their current bond. There are several scenarios where unbonding can occur, such as when a miner wants to leave the network or move from one tier to another.
 
-When a miner unbonds their MXC, they must wait for a specified period before the MXC becomes available. During the unbonding period of 17280 blocks, the miner's MXC is still considered bonded and cannot be used for anything else. Throughout the 17280 blocks, an equal portion of bonded MXC will be unbonded and become available in the user’s wallet per block.
+When a miner unbonds their MXC, they must wait for a specified period before the MXC becomes available. During the unbonding period of 17280 blocks, the miner's MXC is still considered bonded and cannot be used for anything else. Throughout the 17280 blocks, an equal portion of bonded MXC will be unbonded and dripped back into the user's wallet per block and be available. This is called the MXC Dripping.
 
 A miner may unbond MXC from NEO tier before the bond duration has expired, However, there are also penalties associated with unbonding before the end of the bond period. The formula for calculating the penalty fee is:
 
