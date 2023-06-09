@@ -8,7 +8,7 @@ The formula for calculating mining power takes into account the miner's age on t
 
 Where:
 
-* MP = Mining Power of i-th gateway
+* MP = Mining Power of the gateway
 * Bn = Current Block Number
 * Bs  = Block Number when the miner joined the network
 * BT = Block Time (in Days)
