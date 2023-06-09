@@ -13,7 +13,7 @@ Where:
 * Bs  = Block Number when the miner joined the network
 * BT = Block Time (in Days)
 * SB = Staking Boost
-* SF = Staking Factor = 0,00004
+* SF = Staking Factor = 0,00002
 * SC = Staking Cap = 1
 * MXC = Staked (locked) MXC
 * MD = Mining Difficulty
@@ -29,11 +29,11 @@ The formula includes two variables: "Pool" which represents the mining pool acco
 
 In other words, the formula "MD(BN)" calculates the mining difficulty for a given block number by taking into account the total mining power of all the miners in the pool, including the mining power of the individual miner.&#x20;
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (12) (1).png>)
 
 The above formula shows the ExpectedMXC mined according to the individual miner, and their respective Mining Difficulty by multiplying the Mining Power, and Mining Difficulty. MPi(BN) represents the mining power of the miner at block number BN, as calculated using the MD(BN) which represents the mining difficulty of the miner at block number BN.
 
-The formula SB(MXC) stands for Staking Boost, MXC is the amount of MXC staked, where SF is the Staking Factor which is equal to 0.00004, SC the Staking Cap which is equal to 1.
+The formula SB(MXC) stands for Staking Boost, MXC is the amount of MXC staked, where SF is the Staking Factor which is equal to 0.00002, SC the Staking Cap which is equal to 1.
 
 ![](<../../../.gitbook/assets/image (4).png>)
 
@@ -41,13 +41,13 @@ This formula is used to calculate the Staking Boost that a miner receives based 
 
 Splitting up the formula, you can see that the first part, namely MXC \* SF calculates the potential Staking Boost based on the staked amount of MXC and the Staking Factor. The second part of the formula, MIN(), takes the minimum value between the potential Staking Boost and the Staking Cap. This ensures that the Staking Boost does not exceed the maximum value of 1.
 
-As the formula suggests, the maximum staking amount is 25,000 MXC, which would grant the miner a boost of 2.&#x20;
+As the formula suggests, the maximum staking amount is 50,000 MXC, which would grant the miner a boost of 2.&#x20;
 
 For example, let’s say a miner has 10,000 MXC staked. Inserting this value into the formula, we get the following outcomes:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
-The miner that has 10,000 MXC staked would receive a Staking Boost of 0.4, which would increase their Mining Power and allow them to perform more competitively within the tier.
+The miner that has 10,000 MXC staked would receive a Staking Boost of 0.2, which would increase their Mining Power and allow them to perform more competitively within the tier.
 
 In an example scenario in which there are 3 miners in Silver Tier, m1 with MP1 = 1, m2 with MP2 = 0.8 and m3 with MP3 = 0.2 and the tier has 10,000 MXC allocated to it. Then the miners may receive on average:
 
