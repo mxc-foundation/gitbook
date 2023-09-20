@@ -10,7 +10,7 @@ In the new, on-chain mining, miners use xMXC as fuel and mine $SENSOR. Upon mini
 Here are the specific steps on how to onboard your miners and start mining. We highly recommend that you use your AXS app for this, as it will require camera access.
 
 1. Open your AXS app and ensure that you have zkEVM MXC to pay as gas and xMXC to use as fuel
-2. &#x20;Access On-Chain Mining ([https://mining.mxc.com](https://mining.mxc.com))&#x20;
+2. &#x20;Access On-Chain Mining ([https://mining.matchx.io](https://mining.mxc.com))&#x20;
 3. Click on the plus icon\
    ![](https://lh5.googleusercontent.com/l3GjESxhE6WbrxGxIUO8a-W5cIa7ZgpUrkPzn8cUte-wqi0dQtUchWTA-j8ckJFB6K-Toqopn3vem0mgtBVTJwxBZWZ-tDCe3-Ex5O\_BpwNq14Tf6XQCAZPP0feGBhNptPd8vKZKXeliD2gmCSd7bOQ)
 4. &#x20;Allow access to the camera, and scan the QR code of your miner
