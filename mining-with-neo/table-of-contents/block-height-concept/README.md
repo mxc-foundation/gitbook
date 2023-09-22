@@ -1,2 +1,0 @@
-# ⛓ Block Height Concept
-

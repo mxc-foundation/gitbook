@@ -1,2 +1,0 @@
-# 📚 Table of Contents
-
