@@ -1,6 +1,6 @@
 # Socials
 
-![](broken-reference)\
+<img src="broken-reference" alt="" data-size="line">\
 Website: [https://www.mxc.org/](https://www.mxc.org/)\
 Telegram Official Chat: [https://t.me/mxcfoundation](https://t.me/mxcfoundation)\
 Telegram Announcement Channel: [https://t.me/mxcofficialannouncements](https://t.me/mxcofficialannouncements)\
@@ -10,7 +10,7 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/mxc/](https://coinmarketcap
 CoinGecko: [https://www.coingecko.com/en/coins/mxc](https://www.coingecko.com/en/coins/mxc)
 
 \
-![](<.gitbook/assets/MatchX\_Logo-Dark-Blue\_X\_1 (1).png>)\
+![](<../.gitbook/assets/MatchX\_Logo-Dark-Blue\_X\_1 (1).png>)\
 \
 Website: [https://matchx.io/](https://matchx.io/)\
 Twitter: [https://twitter.com/matchx\_iot](https://twitter.com/matchx\_iot)\

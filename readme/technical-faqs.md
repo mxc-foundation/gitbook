@@ -34,9 +34,6 @@ If after 30 minutes the LED is not green, please join the [Telegram Group](https
 **Different kind of colored LED meanings**\
 If your M2 Pro shows a specific colored light, green, yellow, purple and more there's something going on with your M2 Pro. You can simply click the link [here](https://gyazo.com/4004efe2954af801990c03a630b58001), to see what they mean. \
 \
-**Why my mined tokens aren't showing in the wallet?** \
-Since the launch of miner health, miner revenue is visible in Fuel, and not on the “revenue” item in the app. Check every 15 minutes to see if your fuel tank size and content are increasing. If they are, then you’re receiving your MXCs. \
-\
 **My uptime isn’t reliable. How can I improve it?** \
 Uptime is heavily reliant on your local internet provider. Very few internet providers provide any sort of guarantee on whether or not they provide 100% connectivity. In fact, every internet provider often has blips throughout the day. These aren't noticeable for an average user, who logs in, does some tasks and then moves on. In fact, streaming sites like Netflix are well aware of this, and therefore have a "buffer" to store data locally in the event a blip occurs while streaming. Unfortunately these blips affect an M2 Pro's uptime. If you want to check and see if it's an internet provider blip that's causing your issue, follow the steps outlined [here.](https://dev.mxc.org/docs/tutorials/m2-pro/troubleshooting)
 

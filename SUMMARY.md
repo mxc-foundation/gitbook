@@ -2,21 +2,14 @@
 
 * [A Warm Welcome](README.md)
   * [The Building Blocks of MXC](a-warm-welcome/the-building-blocks-of-mxc.md)
-  * [The 2022 Roadmap](a-warm-welcome/the-2022-roadmap.md)
   * [Glossary](a-warm-welcome/glossary.md)
   * [Proof of Participation](a-warm-welcome/proof-of-participation.md)
-* [Getting Started](getting-started/README.md)
-  * [Where to buy MXC](getting-started/where-to-buy-mxc.md)
-  * [MXProtocol](getting-started/mxprotocol.md)
-  * [Miner Proximity](getting-started/miner-proximity.md)
-  * [FAQs](getting-started/faqs.md)
-  * [Technical FAQs](getting-started/technical-faqs.md)
-* [Informative](informative/README.md)
-  * [LPWAN](informative/lpwan.md)
-  * [MXC Metaverse](informative/mxc-metaverse.md)
-* [Security](security/README.md)
-  * [Audits](security/audits.md)
-* [Socials](socials.md)
+  * [Miner Proximity](readme/miner-proximity.md)
+  * [FAQs](readme/faqs.md)
+  * [Technical FAQs](readme/technical-faqs.md)
+  * [LPWAN](readme/lpwan.md)
+  * [Audits](readme/audits.md)
+  * [Socials](readme/socials.md)
 
 ## AXS App
 
