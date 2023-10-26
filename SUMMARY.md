@@ -41,6 +41,7 @@
     * [Chain Configuration](axs-app/table-of-contents/wallet-settings/chain-configuration.md)
     * [Address Book](axs-app/table-of-contents/wallet-settings/address-book.md)
     * [Troubleshooting](axs-app/table-of-contents/wallet-settings/troubleshooting.md)
+  * [Changelog & Release Notes](axs-app/table-of-contents/changelog-and-release-notes.md)
 
 ## AXS Migration Guide
 
