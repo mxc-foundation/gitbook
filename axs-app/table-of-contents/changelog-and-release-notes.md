@@ -6,8 +6,14 @@ Our latest update introduces bug fixes and an improved user experience.
 
 The key updates include:
 
-1. Enhancement on Import Account function
-2. User can send by directly by clicking on token from Portfolio
+1. Enhancements on Accounts feature.
+2. User can send tokens directly by clicking on token from Portfolio.
+3. Further enhancements for Import Account using key.
+4. Enhancements for higher transaction success rate.
+5. External Exchange navigation to add tokens into AXS wallet.
+6. UI/ UX Advancements&#x20;
+
+
 
 \
 
