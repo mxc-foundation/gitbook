@@ -1,5 +1,19 @@
 # Changelog & Release Notes
 
+**App Store Update Copy - AXS Wallet 1.8.0**
+
+Our latest update introduces bug fixes and an improved user experience.
+
+The key updates include:
+
+1. Adding Custom Network Chains became ease on AXS app now
+2. Bug Fixes: App Crash Reports Fixed, Improved navigations on dApps
+3. Better experience of dApps by UI/ UX advancements
+
+
+
+
+
 **App Store Update Copy - AXS Wallet 1.7.0**
 
 Our latest update introduces bug fixes and an improved user experience.
