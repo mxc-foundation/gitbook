@@ -1,5 +1,18 @@
 # Changelog & Release Notes
 
+**App Store Update Copy - AXS Wallet 2.0.0**
+
+Our latest update introduces bug fixes and an improved user experience.
+
+The key updates include:
+
+1. Push Notification avaliable for AXS App to get quick updates for anything new and exciting on zkevm and AXS wallet.
+2. User can choose to enable/ disable push notification from Settings
+3. Options avaliable for easy navigation (Settings > Customer Support) for zkevm Documentation and AXS Knowledge Hug
+4. Optimization in Liquidity Pool rewards visualization on SWAP dApp
+
+
+
 **App Store Update Copy - AXS Wallet 1.8.0**
 
 Our latest update introduces bug fixes and an improved user experience.
