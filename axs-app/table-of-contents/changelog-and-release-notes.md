@@ -8,7 +8,7 @@ The key updates include:
 
 1. Push Notification avaliable for AXS App to get quick updates for anything new and exciting on zkevm and AXS wallet.
 2. User can choose to enable/ disable push notification from Settings
-3. Options avaliable for easy navigation (Settings > Customer Support) for zkevm Documentation and AXS Knowledge Hug
+3. Options avaliable for easy navigation (Settings > Customer Support) for zkevm Documentation and AXS Knowledge Hub
 4. Optimization in Liquidity Pool rewards visualization on SWAP dApp
 
 
