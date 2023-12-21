@@ -1,5 +1,21 @@
 # Changelog & Release Notes
 
+**App Store Update - AXS Wallet 2.1.0**
+
+Experience the enhanced version of AXS Wallet with our latest update, designed to elevate your user experience through important bug fixes and refinements.
+
+Key Enhancements:
+
+1. New Feature: Enjoy Speed Up and Cancel options for transactions through AXS Wallet, enjoy increased flexibility and efficiency in managing your crypto activities.
+2. Experience a seamless browsing experience on dApps by simply sliding down. Now, you can easily access chain details, providing you with a more comprehensive view of your interactions.
+3. NFT dApp Changes: Twitter Authentication, "Add to Cart" Option and "Transfer" Feature, Enhanced Navigation.
+4. Swap-info dApp Enhancements: Time Chart Expansion, Comprehensive Token Info, Improved User Identification.
+
+Discover a smoother and more informed experience on #MXCZKEMV\
+\
+\
+
+
 **App Store Update Copy - AXS Wallet 2.0.0**
 
 Experience the enhanced version of AXS Wallet with our latest update, designed to elevate your user experience through important bug fixes and refinements.
