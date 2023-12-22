@@ -11,7 +11,7 @@ Key Enhancements:
 3. NFT dApp Changes: Twitter Authentication, "Add to Cart" Option and "Transfer" Feature, Enhanced Navigation.
 4. Swap-info dApp Enhancements: Time Chart Expansion, Comprehensive Token Info, Improved User Identification.
 
-Discover a smoother and more informed experience on #MXCZKEMV\
+Discover a smoother and more informed experience on #MXCZKEVM\
 \
 \
 
