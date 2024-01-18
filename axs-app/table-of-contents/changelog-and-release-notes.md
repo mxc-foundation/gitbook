@@ -1,5 +1,19 @@
 # Changelog & Release Notes
 
+**App Store Update - AXS Wallet 2.2.0**
+
+Experience the enhanced version of AXS Wallet with our latest update, designed to elevate your user experience through important bug fixes and refinements.
+
+Key Enhancements:
+
+1. Introducing **Local Notifications**, a cutting-edge feature designed to keep users informed and empowered within dApps and the AXS wallet ecosystem. Receive timely alerts prompting proactive measures, such as optimizing transaction fees, managing wallet balances, and staying updated on epoch-related events. Stay in control and enhance your user experience with our new notification system.
+2.  Exciting updates and an enhanced user experience await you on our **NFT dApp!** Introducing a brand-new feature: Miner Trading. Now, users can seamlessly trade and transfer their miners along with their mining income. Elevate your NFT experience with these latest advancements.
+
+    \
+    \
+    \
+
+
 **App Store Update - AXS Wallet 2.1.0**
 
 Experience the enhanced version of AXS Wallet with our latest update, designed to elevate your user experience through important bug fixes and refinements.
